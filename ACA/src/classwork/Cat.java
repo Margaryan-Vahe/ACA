@@ -1,10 +1,12 @@
+package classwork;
+
 public class Cat {
     String color;
     String name;
     boolean bool;
 
     Cat(){
-        name = "Cat";
+        name = "classwork.Cat";
         color = "black";
     }
 

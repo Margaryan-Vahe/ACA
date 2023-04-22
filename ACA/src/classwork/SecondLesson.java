@@ -1,3 +1,5 @@
+package classwork;
+
 public class SecondLesson {
     public static void main(String[] args) {
         String str = " name";

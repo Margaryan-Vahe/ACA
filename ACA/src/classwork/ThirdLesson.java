@@ -1,8 +1,10 @@
+package classwork;
+
 class demo
 {
     int a = 10;
     int b = 20;
-//    demo()
+//    classwork.demo()
 //    {
 //        a = 10;
 //        b = 20;
@@ -15,7 +17,7 @@ class demo
 class ThirdLesson {
     public static void main(String[] args) {
 
-//        Cat cat = new Cat();
+//        classwork.Cat cat = new classwork.Cat();
 //        cat.color = "red";
 //        cat.name = "caty";
 //        cat.setCatName("new caty");

@@ -1,3 +1,5 @@
+package classwork;
+
 public class Main {
     private static int x = 10;
     static {

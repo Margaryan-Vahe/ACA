@@ -1,3 +1,5 @@
+package classwork;
+
 public class FourthLesson {
     public static void main(String[] args) {
         Point point_1 = new Point(0,0);
